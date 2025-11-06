@@ -388,7 +388,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Built with ❤️ for creative experimentation**
-
-*Self-hosted AI on Apple Silicon - No cloud, no cost, no limits.*
-
+**Built for creative experimentation**
