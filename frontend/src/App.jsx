@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 import DrawingCanvas from './components/DrawingCanvas.jsx'
 import ImageDisplay from './components/ImageDisplay.jsx'
 import './App.css'
