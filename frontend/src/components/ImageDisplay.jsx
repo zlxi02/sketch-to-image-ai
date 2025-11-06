@@ -33,7 +33,7 @@ function ImageDisplay({ image, loading }) {
     <div className="image-display">
       <div className="placeholder-container">
         <div className="placeholder-icon">🎨</div>
-        <p className="placeholder-text">Your AI-generated image will appear here</p>
+        <p className="placeholder-text">Your generated image will appear here</p>
         <p className="placeholder-subtext">Draw something and click "Generate Image" to start!</p>
       </div>
     </div>

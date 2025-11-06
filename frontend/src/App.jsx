@@ -63,7 +63,7 @@ function App() {
     <div className="app">
       <header className="header">
         <h1>✨ Sketch to Image AI</h1>
-        <p>Draw something and watch AI bring it to life!</p>
+        <p>Draw something and bring it to life!</p>
       </header>
 
       <div className="container">
