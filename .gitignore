@@ -35,3 +35,13 @@ output/
 # Logs
 *.log
 
+# Node.js / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+package-lock.json
+
+# Vite build artifacts
+.vite/
+
