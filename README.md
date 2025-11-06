@@ -384,8 +384,7 @@ This project is open source and available under the MIT License.
 - **Stable Diffusion** by Stability AI
 - **ControlNet** by Lvmin Zhang
 - **Hugging Face** for model hosting and diffusers library
-- **FastAPI** by Sebastián Ramírez
-- **React** by Meta
+
 
 ---
 
