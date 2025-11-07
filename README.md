@@ -7,6 +7,8 @@ A full-stack web application that transforms simple sketches into realistic imag
 ![React](https://img.shields.io/badge/React-18.2-61dafb)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688)
 
+**Watch the demo here →** [LinkedIn Post](https://www.linkedin.com/posts/zacharyxi_wanted-to-share-something-i-built-today-activity-7392075612573667328-QCjG/)
+
 ## 🎯 Overview
 
 Draw a simple sketch on the canvas, optionally add a text prompt, and watch as AI generates a photorealistic image based on your drawing. The entire pipeline runs locally on Apple Silicon (M1/M2/M3) Macs, with no external API calls or subscriptions required.
