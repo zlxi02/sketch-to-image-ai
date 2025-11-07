@@ -7,7 +7,7 @@ A full-stack web application that transforms simple sketches into realistic imag
 ![React](https://img.shields.io/badge/React-18.2-61dafb)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688)
 
-**Watch the demo here →** [LinkedIn Post](https://www.linkedin.com/posts/zacharyxi_wanted-to-share-something-i-built-today-activity-7392075612573667328-QCjG/)
+[Watch the demo here](https://www.linkedin.com/posts/zacharyxi_wanted-to-share-something-i-built-today-activity-7392075612573667328-QCjG/)
 
 ## 🎯 Overview
 
